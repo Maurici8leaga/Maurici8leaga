@@ -1,6 +1,6 @@
-### Hi! I'm Mauricio Oleaga 👋
+### Hi! I'm Mauricio Oleaga ✌️
 
-I am a Full stack developer with knowledge in the MERN stack with a desire to learn and use new technologies with an enthusiastic, enterprising, visionary personality and great determination to achieve all the objectives that I set myself.
+I'm a passionate full stack developer with a creative mind and a keen eye for detail. My insatiable curiosity and hunger for knowledge drive me to explore new technologies and stay up-to-date in the world of development. I'm a visionary with determination, always seeking to overcome challenges and achieve ambitious goals. Additionally, my fun and energetic personality helps me enjoy every moment and tackle challenges with a positive attitude. I dream of traveling the world and experiencing different cultures while sharing my love for programming. I'm committed to doing what I love most and leveraging my expertise and knowledge to create innovative and high-quality solutions.
 
 ---
 
