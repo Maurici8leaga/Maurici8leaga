@@ -18,6 +18,12 @@ I'm a passionate full stack developer with a creative mind and a keen eye for de
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
 
+---
+
+### 🖥️ Projects
+<a href='https://cocktail-page.vercel.app/#list' title="Cocktail Library" target='_blank'>
+  <img width='49%'  src='https://raw.githubusercontent.com/Maurici8leaga/Cocktail-page/main/public/assets/img-readme/Intro.webp' alt='Cocktail' />
+</a>
 
           
 <!--
