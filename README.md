@@ -20,9 +20,16 @@ I'm a passionate full stack developer with a creative mind and a keen eye for de
 
 ---
 
-### 🖥️ Projects
+
+
+## 🖥️ Projects
+
 <a href='https://cocktail-page.vercel.app/#list' title="Cocktail Library" target='_blank'>
   <img width='49%'  src='https://raw.githubusercontent.com/Maurici8leaga/Cocktail-page/main/public/assets/img-readme/Intro.webp' alt='Cocktail' />
+</a>
+
+<a href='https://beer-oteca.vercel.app/' title="BeerOteca" target='_blank'>
+<!--   <img width='49%'  src='' alt='' /> -->
 </a>
 
           
